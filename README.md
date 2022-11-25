@@ -10,4 +10,7 @@ If you have a StockSymbol API you can get a list of the different markets and st
 2. Clone this repository
 3. cd into cloned repo
 4. pip install -r requirements.txt
-5. 
+5. python market.py
+
+## TODO:
+1. Add ML Predictions

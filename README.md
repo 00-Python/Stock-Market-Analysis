@@ -13,4 +13,5 @@ If you have a StockSymbol API you can get a list of the different markets and st
 5. python market.py
 
 ## TODO:
-1. Add ML Predictions
+1. Clean up candlestick plot
+2. Add ML Predictions

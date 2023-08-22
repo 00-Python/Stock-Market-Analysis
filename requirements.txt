@@ -1,4 +1,4 @@
-certifi==2022.9.24
+certifi==2023.7.22
 charset-normalizer==2.1.1
 contourpy==1.0.6
 cycler==0.11.0
@@ -14,11 +14,11 @@ openpyxl==3.0.10
 packaging==21.3
 pandas==1.5.1
 pandas-datareader==0.10.0
-Pillow==9.3.0
+Pillow==9.4.0
 pyparsing==3.0.9
 python-dateutil==2.8.2
 pytz==2022.6
-requests==2.28.1
+requests==2.31.0
 six==1.16.0
 stocksymbol==0.0.5
 urllib3==1.26.12

@@ -4,7 +4,7 @@ contourpy==1.0.6
 cycler==0.11.0
 et-xmlfile==1.1.0
 fonttools==4.38.0
-idna==3.4
+idna==3.7
 kiwisolver==1.4.4
 lxml==4.9.1
 matplotlib==3.6.2

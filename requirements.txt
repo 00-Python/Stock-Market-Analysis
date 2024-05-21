@@ -18,7 +18,7 @@ Pillow==10.0.1
 pyparsing==3.0.9
 python-dateutil==2.8.2
 pytz==2022.6
-requests==2.31.0
+requests==2.32.0
 six==1.16.0
 stocksymbol==0.0.5
 urllib3==1.26.17
